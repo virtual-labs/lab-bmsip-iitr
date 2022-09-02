@@ -9,7 +9,7 @@
     "phase": 2,
     "collegeName": "IITR",
     "baseUrl": "bmsip-iitr.vlabs.ac.in",
-    "introduction": "",
+    "introduction": "The interactive experiments in this lab will give the students an opportunity for better understanding and learning basics techniques used in Bio-Medical Signal Processing.",
     "experiments": [
     {
       "name": "Digital Signal Processing Toolkit",
@@ -27,12 +27,12 @@
     }
     ],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering"],
+        "PG": ["Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering"]
     },
-    "objective": "",
+    "objective": "To describe signals mathematically and understand how to perform mathematical operations on signals.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The experiments are targeted at students who have just finished a first course in Digital Processing and Bio-Medical Signal Processing",
+        "universities": ["UG in Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering","PG in Bio-Medical Engineering, Electrical Engineering, Electronics Engineering and Instrumentation Engineering"]
     }
 }
