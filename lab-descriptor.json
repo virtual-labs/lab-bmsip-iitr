@@ -1,16 +1,16 @@
 {
-    "broadArea": {
-        "name": "Biotechnology and Biomedical Engineering",
-        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
-    },
-    "lab": "Bio-medical signal and image processing lab",
-    "lab_display_name": "Bio-Medical Signal Processing Lab",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "IITR",
-    "baseUrl": "bmsip-iitr.vlabs.ac.in",
-    "introduction": "The interactive experiments in this lab will give the students an opportunity for better understanding and learning basics techniques used in Bio-Medical Signal Processing.",
-    "experiments": [
+  "broadArea": {
+    "name": "Biotechnology and Biomedical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+  },
+  "lab": "Bio-medical signal and image processing lab",
+  "lab_display_name": "Bio-Medical Signal Processing Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "IITR",
+  "baseUrl": "bmsip-iitr.vlabs.ac.in",
+  "introduction": "The interactive experiments in this lab will give the students an opportunity for better understanding and learning basics techniques used in Bio-Medical Signal Processing.",
+  "experiments": [
     {
       "name": "Digital Signal Processing Toolkit",
       "short-name": "dsp-toolkit",
@@ -25,14 +25,24 @@
       "tag": "v1.0.0",
       "deploy": true
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering"
     ],
-    "targetAudience": {
-        "UG": ["Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering"],
-        "PG": ["Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering"]
-    },
-    "objective": "To describe signals mathematically and understand how to perform mathematical operations on signals.",
-    "courseAlignment": {
-        "description": "The experiments are targeted at students who have just finished a first course in Digital Processing and Bio-Medical Signal Processing",
-        "universities": ["UG in Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering","PG in Bio-Medical Engineering, Electrical Engineering, Electronics Engineering and Instrumentation Engineering"]
-    }
+    "PG": [
+      "Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering"
+    ]
+  },
+  "objective": "To describe signals mathematically and understand how to perform mathematical operations on signals.",
+  "courseAlignment": {
+    "description": "The experiments are targeted at students who have just finished a first course in Digital Processing and Bio-Medical Signal Processing",
+    "universities": [
+      "UG in Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering",
+      "PG in Bio-Medical Engineering, Electrical Engineering, Electronics Engineering and Instrumentation Engineering"
+    ]
+  },
+  "exp_name": "Bio-Medical Signal Processing Toolkit",
+  "exp_short_name": "bmsp-toolkit",
+  "version": "v0.1.0"
 }
