@@ -1,16 +1,31 @@
 {
     "broadArea": {
-        "name": "",
-        "link": ""
+        "name": "Biotechnology and Biomedical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
     },
-    "lab": "",
-    "lab_display_name": "",
-    "deployLab": ,
-    "phase": ,
-    "collegeName": "",
-    "baseUrl": "",
+    "lab": "Bio-medical signal and image processing lab",
+    "lab_display_name": "Bio-Medical Signal Processing Lab",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "IITR",
+    "baseUrl": "bmsip-iitr.vlabs.ac.in",
     "introduction": "",
-    "experiments": [],
+    "experiments": [
+    {
+      "name": "Digital Signal Processing Toolkit",
+      "short-name": "dsp-toolkit",
+      "repo": "https://github.com/virtual-labs/exp-dsp-toolkit-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Bio-Medical Signal Processing Toolkit",
+      "short-name": "bmsp-toolkit",
+      "repo": "https://github.com/virtual-labs/exp-bmsp-toolkit-iitr",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
     "targetAudience": {
         "UG": [],
         "PG": []
