@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Biotechnology and Biomedical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+    "code": "BIO"
   },
   "lab": "Bio-medical signal and image processing lab",
   "lab_display_name": "Bio-Medical Signal Processing Lab",
@@ -41,8 +42,5 @@
       "UG in Bio-Medical Engineering , Electrical Engineering, Electronics Engineering and Instrumentation Engineering",
       "PG in Bio-Medical Engineering, Electrical Engineering, Electronics Engineering and Instrumentation Engineering"
     ]
-  },
-  "exp_name": "Bio-Medical Signal Processing Toolkit",
-  "exp_short_name": "bmsp-toolkit",
-  "version": "v0.3.0"
+  }
 }
